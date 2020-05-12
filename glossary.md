@@ -3,11 +3,13 @@
 Note the capitalization in the following words. Obvious words are not included like: **Google** or **Bing**. Programming languages and frameworks are included though.
 
 - **Amazon EC2** (Amazon **E**lastic **C**ompute **C**loud) - is a web service that provides resizable compute capacity in the cloud
+- **Angular (web framework)** or **AngularJS** or **Angular.js**
 - **API** (**A**pplication **P**rogram **I**nterface)
 - **AWS** (**A**mazon **W**eb **S**ervices)
 - **B2B** (**B**usiness to **B**usiness)
 - **B2C** (**B**usiness to **C**ustomer)
 - **BaaS** (**B**ackend **a**s **a** **S**ervice)
+- **Babel.js**
 - **CD** (depending on context) **C**ontinuous **D**elivery, **C**ontinuous **D**eployment, **C**ompact **D**isk 
 - **CI** - **C**ontinuous **I**ntegration
 - **CircleCI** not *Circle CI* nor *Circleci*
@@ -19,6 +21,7 @@ Note the capitalization in the following words. Obvious words are not included l
 - **Django**
 - **Docker**
 - **DuckDuckGo**
+- **Express.js**
 - **Firebase**
 - **Flask**
 - **GCP** (**G**oogle **C**loud **P**latfrom)
@@ -27,16 +30,17 @@ Note the capitalization in the following words. Obvious words are not included l
 - **GraphQL**
 - **JavaScript**
 - **Jinja** template engine (or simply Jinja)
+- **JQuery**
 - **MongoDB**
-- **NodeJS**
-- **NuxtJS**
+- **Node.js**
+- **Nuxt.js**
 - **ORM** (**O**bject **R**elational **M**apper)
 - **PHP**
 - **PostgreSQL**
 - **Python**
+- **React (web framework)** or **React.js** or **ReactJS**
 - **React Native**
 - **React Redux** (or simple Redux)
-- **ReactJS**
 - **REST** (**RE**presentational **S**tate **T**ransfer) - sometimes written as `RESTful API`. More info [here][1]
 - **Ruby**
 - **Ruby on Rails** (or simply Rails)
@@ -47,7 +51,8 @@ Note the capitalization in the following words. Obvious words are not included l
 - **SQLAlchemy** - is a Python SQL toolkit and ORM
 - **SQLite** - is a relational database management system contained in a C library
 - **TDD** (**T**est **D**riven **D**evelopment)
-- **VueJS**
+- **Vue (web framework)** or **Vue.js**
+- **Webpack**
 
 ---
 **NB**: This is a growing list (PRs are [welcome][3]. Please maintain the alphabetic order)
