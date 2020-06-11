@@ -32,6 +32,7 @@ Note the capitalization in the following words. Obvious words are not included l
 - **Jinja** template engine (or simply Jinja)
 - **JQuery**
 - **MongoDB**
+- **Nest.js**
 - **Node.js**
 - **Nuxt.js**
 - **ORM** (**O**bject **R**elational **M**apper)
