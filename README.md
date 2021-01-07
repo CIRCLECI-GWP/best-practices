@@ -7,10 +7,10 @@ In this repo we outline the best practices for authors writing on the CircleCI b
 
 [glossary]: /glossary.md
 
-##Screenshots
+## Screenshots
 Guidelines for including (or not including) screenshots in tutorials and other developer documentation. 
 
-###Links to other content providers' guidelines
+### Links to other content providers' guidelines
 
 **Screenshot specific:**
 
